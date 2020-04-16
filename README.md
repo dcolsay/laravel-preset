@@ -62,6 +62,14 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - [OP.GG](https://op.gg)
 - [云软科技](http://www.yunruan.ltd/)
 
+## Packages
+### Prod
+- [Laravel Excel](https://github.com/maatwebsite/Laravel-Excel)
+
+### Dev
+- [Laravel UI](https://github.com/laravel/ui)
+- [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
+
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).

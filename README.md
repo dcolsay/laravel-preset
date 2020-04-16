@@ -7,6 +7,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## Requirements
+- PHP: 7.4
+- Laravel: ^7.x
+
+### Laravel Excel
+- PhpSpreadsheet: ^1.6
+- PHP extension `php_zip` enabled
+- PHP extension `php_xml` enabled
+- PHP extension `php_gd2` enabled
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:

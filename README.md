@@ -40,6 +40,7 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 ## Packages
 ### Prod
 - [Laravel Excel](https://github.com/maatwebsite/Laravel-Excel)
+- [Laravel Livewire][https://laravel-livewire.com/docs/quickstart]
 
 ### Dev
 - [Laravel UI](https://github.com/laravel/ui)

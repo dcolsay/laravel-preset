@@ -1,7 +1,7 @@
 {
     "name": "dcolsay/laravel-preset",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Dcolsay laravel default preset.",
     "keywords": [
         "framework",
         "laravel"

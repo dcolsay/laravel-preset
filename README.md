@@ -20,6 +20,7 @@ Dcolsay laravel default preset.
 ### Dev
 - [Laravel UI](https://github.com/laravel/ui)
 - [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
+- [Laravel Blueprint](https://github.com/laravel-shift/blueprint)
 
 ## Contributing
 
